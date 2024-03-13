@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/YdTMq5H/austin-distel-t-LZh-FRLj6n-Y-unsplash.jpg",
+      "title": "The Blog",
+      "author": "John Doe",
+      "author_img": "https://example.com/johndoe.jpg",
+      "posted_time": "2024-03-12T10:00:00Z",
+      "reading_time": 15,
+      "hashtag": "#fiction #novel #LoremIpsum"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/tZp8N3c/dose-media-b-U6-Jyh-SI6zo-unsplash.jpg",
+      "title": "The Adventure Begins",
+      "author": "Jane Smith",
+      "author_img": "https://example.com/janesmith.jpg",
+      "posted_time": "2024-03-11T15:30:00Z",
+      "reading_time": 20,
+      "hashtag": "#adventure #journey #fiction"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/F5q8RwZ/flat-lay-work-space-with-notebook-keyboard.jpg",
+      "title": "Mystery of the Lost City",
+      "author": "Alan Johnson",
+      "author_img": "https://example.com/alanjohnson.jpg",
+      "posted_time": "2024-03-10T09:45:00Z",
+      "reading_time": 25,
+      "hashtag": "#mystery #detective #adventure"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/Dz02zvp/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "Cooking with Passion",
+      "author": "Emily Davis",
+      "author_img": "https://example.com/emilydavis.jpg",
+      "posted_time": "2024-03-09T12:20:00Z",
+      "reading_time": 18,
+      "hashtag": "#cooking #recipes #foodie"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/njg9xmM/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+      "title": "The Art of Productivity",
+      "author": "Michael Lee",
+      "author_img": "https://example.com/michaellee.jpg",
+      "posted_time": "2024-03-08T17:10:00Z",
+      "reading_time": 30,
+      "hashtag": "#productivity #selfhelp #motivation"
+    }
+  ]
+  
